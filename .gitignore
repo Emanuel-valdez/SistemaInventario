@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.rsuser
+*.userprefs
+
+# Compilación del código fuente (la carpeta /build SÍ se sube)
+src/**/bin/
+src/**/obj/
+src/**/TestResults/
+
+# Configuración local con contraseña (NO subir)
+src/**/appsettings.json
+
+# Archivos que genera la aplicación al ejecutarse
+errores.log
+src/**/Fotos/
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
