@@ -1,6 +1,6 @@
 # Declaración de uso de IA
 
-**Estudiante:** Emanuel Valdez · Matrícula 2024-0820
+**Estudiante:** Emanuel Valdez 
 **Asignatura:** ISW-124 Programación Avanzada · Proyecto 1 (individual)
 **Proyecto:** Sistema de Inventario (C#, WinForms, SQL Server)
 
