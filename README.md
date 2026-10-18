@@ -209,6 +209,4 @@ PascalCase en clases, métodos y propiedades; camelCase en variables locales y p
 
 ---
 
-## Video demostrativo
 
-Enlace: _(pegar aquí el enlace del video)_
